@@ -1,1 +1,1 @@
-# agendaly
+# agendaily
